@@ -14,3 +14,4 @@ I am not even sure this will work. I have created this repository to try and att
 
 # Other resources:
 - https://raspberrypi.stackexchange.com/questions/26979/headless-wifi-configuration-ap-mode
+- https://github.com/sabhiram/raspberry-wifi-conf
