@@ -1,4 +1,4 @@
-# Raspberry-Pi-Acess-Point-on-Boot
+# Raspberry Pi Acess Point on Boot (AP Pi)
 An open source script for booting a Raspberry Pi as an Access Point, this will then allow the pi to accept Networks. 
 
 # Goal
@@ -6,7 +6,11 @@ Basically I want to automate this turtorial https://learn.sparkfun.com/tutorials
 
 The user story for this project is to let a user select network settings and give credentials to a raspberry pi using their cellphone. Basically if you have a raspberry project that you give to end user's, and that project requires network. This script is ment to make the configuration of the network as easy as possible for the end user, via headless.
 
-## Note:
+# Note:
 I am not even sure this will work. I have created this repository to try and attempt this. My intitial thought is to get this working with a fresh boot of rasbian. I know there are methods of getting network credentials to a rasp-pi, just want to allow a user to do it this way.
 
 
+
+
+# Other resources:
+- https://raspberrypi.stackexchange.com/questions/26979/headless-wifi-configuration-ap-mode
