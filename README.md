@@ -16,3 +16,4 @@ I am not even sure this will work. I have created this repository to try and att
 - https://raspberrypi.stackexchange.com/questions/26979/headless-wifi-configuration-ap-mode
 - https://github.com/sabhiram/raspberry-wifi-conf
 - https://github.com/balena-io/wifi-connect   This project is really close to what I am looking for, but requires SSH.  
+- https://www.raspberrypi.org/forums/viewtopic.php?t=138721 Raspi-config.sh uses First-boot_activity method. This could be the method to achieve this headless. 
