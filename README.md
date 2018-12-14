@@ -15,4 +15,4 @@ I am not even sure this will work. I have created this repository to try and att
 # Other resources:
 - https://raspberrypi.stackexchange.com/questions/26979/headless-wifi-configuration-ap-mode
 - https://github.com/sabhiram/raspberry-wifi-conf
-- https://github.com/balena-io/wifi-connect   This project might be what I have been looking for. 
+- https://github.com/balena-io/wifi-connect   This project is really close to what I am looking for, but requires SSH.  
